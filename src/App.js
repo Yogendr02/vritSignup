@@ -1,9 +1,8 @@
-import Count from "./components/Count"
+import Sign from "./components/signupForm"
 function App(){
     return (
     <div>
-        < Count />
+        < Sign />
     </div>)
 }
 export default App;
-//irusghierughiutkfbrvrtgv gtrrrrrrrrrrrrrrrrrrrrrruouvfffffffffffffffffffffffffffff
